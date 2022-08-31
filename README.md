@@ -34,7 +34,7 @@ Pandas, Matplotlib, Seaborn, Plotly (Portuguese)
 
 #### Languages I'm learning
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="	www.iso.org/standard/63555.html" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/3161/3161133.png" alt="pandas" width="40" height="40"/> </a></p>
+  <a href="https://www.iso.org/standard/63555.html" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/3161/3161133.png" alt="sql" width="40" height="40"/> </a></p>
 
 ##### Python packages
 <p align="left"> 
