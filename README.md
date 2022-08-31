@@ -12,16 +12,31 @@
 - Data in general
 - Cities, urban planning, mobility, housing, real estate and all city-related themes
 
-### Languages I speak
+## Python Projects
+#### Python basic language fluency
+- [**Music Group System**](https://github.com/rominoru/lets-code-ds-rm/tree/main/ProjetoModuloII)
+as part of the *Top Coders / Let's Code - Data Science* training course  
+Python (Portuguese)
+
+#### Data Analysis, Data Visualization, EDA
+- **EDA with World Rank Index Data** [link #1](https://github.com/leoeiji/letscode-projeto-3/blob/main/Notebook.ipynb), [link #2](https://github.com/leoeiji/letscode-projeto-3/blob/main/Notebook_QuestoesExtras.ipynb)  
+as part of the *Top Coders / Let's Code - Data Science* training course  
+Pandas, Matplotlib, Seaborn, GeoPandas (Portuguese)
+- [**EDA with Data Professionals Research dataset**](https://github.com/ZeRafaelN/Projeto4/blob/main/projeto4.ipynb) (State of Data Brazil 2021)  
+as part of the *Top Coders / Let's Code - Data Science* training course  
+Pandas, Matplotlib, Seaborn, Plotly (Portuguese)
+
+## Languages
+#### Languages I speak
 - 🇧🇷 **Portuguese**
 - 🇺🇸 **English**
 - 🇪🇸 **Spanish**
 
-### Languages I'm learning
+#### Languages I'm learning
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="	www.iso.org/standard/63555.html" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/3161/3161133.png" alt="pandas" width="40" height="40"/> </a></p>
 
-#### Python packages
+##### Python packages
 <p align="left"> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
