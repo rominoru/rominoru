@@ -14,7 +14,7 @@
 
 ## Python Projects
 #### Python basic language fluency
-- [**Music Group System**](https://github.com/rominoru/lets-code-ds-rm/tree/main/ProjetoModuloII)
+- [**Music Group System**](https://github.com/rominoru/lets-code-ds-rm/tree/main/ProjetoModuloII)  
 as part of the *Top Coders / Let's Code - Data Science* training course  
 Python (Portuguese)
 
